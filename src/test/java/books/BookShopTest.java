@@ -6,8 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * TODO : Add your import here
  */
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.RepeatedTest;
+
 
 public class BookShopTest {
 
@@ -53,6 +52,6 @@ public class BookShopTest {
 
     @Test
     public void myFirstTest(){
-        assertTrue(true);
+        assertTrue(false);
     }
 }
